@@ -1,0 +1,15 @@
+1. Gaurav:
+Work on implementing the command pattern
+Menu Design
+Save/Load Game
+Miscellaneous Logic
+
+
+2. Pradnya:
+Level Design (landscape, Lights, Roads, Garages, etc.)
+
+3. Ari:
+Sprite/Prefab Implementation
+
+4. Kevin:
+Sounds, Animations, Logic?
